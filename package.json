@@ -1,0 +1,9 @@
+{
+    "name": "mcffetch", 
+    "license": "MPL 2.0", 
+    "author": "zhuowei", 
+    "version": "0.1", 
+    "fullName": "mcffetch", 
+    "id": "jid1-nJAjGGskxtj6zA", 
+    "description": "an addon that fetches random Minecraft Forum threads over AJAX"
+}
